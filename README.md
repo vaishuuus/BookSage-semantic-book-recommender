@@ -22,5 +22,3 @@ BookSage is a semantic book recommendation system that leverages advanced algori
 ## Contributing
 Contributions are welcome! Please submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
